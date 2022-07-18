@@ -9498,5 +9498,9 @@ textarea.form-control {
 
 
     .logo{
-      width: 5vw;
+      width: 4vw;
+    }
+
+    .one{
+      width: 100% !important;
     }
