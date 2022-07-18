@@ -12220,7 +12220,6 @@ h5,
 
 .project-destination:hover .text span {
   padding-right: 20px;
-  background: #f9ab30;
 }
 
 .project-wrap {
@@ -12256,7 +12255,7 @@ h5,
   -ms-transform: translateX(-50%);
   transform: translateX(-50%);
   display: inline-block;
-  background: #f9ab30;
+  background: #7ECDDE;
   color: #fff;
   margin: 0 auto;
   padding: 8px;
@@ -13662,4 +13661,33 @@ textarea.form-control {
 
 .ftco-navbar-light.scrolled .nav-item.active>a{
   color: #7ECDDE !important;
+}
+
+.media.block-6.services.d-block div span{
+  color: #7ECDDE !important;
+}
+
+.blog-entry .topp{
+  background:#7ECDDE !important;
+
+}
+
+.number{
+  color:#7ECDDE !important;
+
+}
+.owl-dot.active{
+  background:#7ECDDE !important;
+
+}
+/* .text span:hover{
+  background-color:#7ECDDE !important; 
+} */
+
+.p-4 ul li span{
+  color:  #7ECDDE !important;
+}
+.p-4 ul li span:hover{
+  color:  #7ECDDE !important;
+  background: none;
 }
